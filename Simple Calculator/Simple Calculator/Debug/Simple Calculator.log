@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\nicholasly\documents\visual studio 2015\projects\simple calculator\simple calculator\calculator.hpp(25): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Simple Calculator.vcxproj -> C:\Users\nicholasly\documents\visual studio 2015\Projects\Simple Calculator\Debug\Simple Calculator.exe
+  Simple Calculator.vcxproj -> C:\Users\nicholasly\documents\visual studio 2015\Projects\Simple Calculator\Debug\Simple Calculator.pdb (Partial PDB)
