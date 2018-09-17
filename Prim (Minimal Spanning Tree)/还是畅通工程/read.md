@@ -1,6 +1,12 @@
 # 还是畅通工程
-Time Limit: 4000/2000 MS (Java/Others)    Memory Limit: 65536/32768 K (Java/Others)
-Total Submission(s): 60312    Accepted Submission(s): 27396
+
+Time Limit: 4000/2000 MS (Java/Others)
+
+Memory Limit: 65536/32768 K (Java/Others)
+
+Total Submission(s): 60312
+
+Accepted Submission(s): 27396
 
 
 ## Problem Description
@@ -22,20 +28,32 @@ Total Submission(s): 60312    Accepted Submission(s): 27396
 ## Sample Input
 
 3
+
 1 2 1
+
 1 3 2
+
 2 3 4
+
 4
+
 1 2 1
+
 1 3 4
+
 1 4 1
+
 2 3 3
+
 2 4 2
+
 3 4 5
+
 0
  
 
 ## Sample Output
 
 3
+
 5
