@@ -1,25 +1,25 @@
-## 还是畅通工程
+# 还是畅通工程
 Time Limit: 4000/2000 MS (Java/Others)    Memory Limit: 65536/32768 K (Java/Others)
 Total Submission(s): 60312    Accepted Submission(s): 27396
 
 
-# Problem Description
+## Problem Description
 
 某省调查乡村交通状况，得到的统计表中列出了任意两村庄间的距离。省政府“畅通工程”的目标是使全省任何两个村庄间都可以实现公路交通（但不一定有直接的公路相连，只要能间接通过公路可达即可），并要求铺设的公路总长度为最小。请计算最小的公路总长度。
  
 
-# Input
+## Input
 
 测试输入包含若干测试用例。每个测试用例的第1行给出村庄数目N ( < 100 )；随后的N(N-1)/2行对应村庄间的距离，每行给出一对正整数，分别是两个村庄的编号，以及此两村庄间的距离。为简单起见，村庄从1到N编号。
 当N为0时，输入结束，该用例不被处理。
  
 
-# Output
+## Output
 
 对每个测试用例，在1行里输出最小的公路总长度。
  
 
-# Sample Input
+## Sample Input
 
 3
 1 2 1
@@ -35,7 +35,7 @@ Total Submission(s): 60312    Accepted Submission(s): 27396
 0
  
 
-# Sample Output
+## Sample Output
 
 3
 5
