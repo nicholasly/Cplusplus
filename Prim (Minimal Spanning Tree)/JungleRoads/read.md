@@ -9,7 +9,7 @@ The input consists of one to 100 data sets, followed by a final line containing 
 The output is one integer per line for each data set: the minimum cost in aacms per month to maintain a road system that connect all the villages. Caution: A brute force solution that examines every possible set of roads will not finish within the one minute time limit. 
  
 
-##Sample Input
+## Sample Input
 
 9
 
@@ -38,7 +38,7 @@ B 1 C 20
 0
  
 
-##Sample Output
+## Sample Output
 
 216
 
