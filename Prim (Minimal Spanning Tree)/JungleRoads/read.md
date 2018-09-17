@@ -1,9 +1,6 @@
 # Jungle Roads
-Time Limit: 2000/1000 MS (Java/Others)    Memory Limit: 65536/32768 K (Java/Others)
-Total Submission(s): 10177    Accepted Submission(s): 7470
 
-
-# Problem Description
+## Problem Description
 
 The Head Elder of the tropical island of Lagrishan has a problem. A burst of foreign aid money was spent on extra roads between villages some years ago. But the jungle overtakes roads relentlessly, so the large road network is too expensive to maintain. The Council of Elders must choose to stop maintaining some roads. The map above on the left shows all the roads in use now and the cost in aacms per month to maintain them. Of course there needs to be some way to get between all the villages on maintained roads, even if the route is not as short as before. The Chief Elder would like to tell the Council of Elders what would be the smallest amount they could spend in aacms per month to maintain roads that would connect all the villages. The villages are labeled A through I in the maps above. The map on the right shows the roads that could be maintained most cheaply, for 216 aacms per month. Your task is to write a program that will solve such problems. 
 
@@ -12,22 +9,37 @@ The input consists of one to 100 data sets, followed by a final line containing 
 The output is one integer per line for each data set: the minimum cost in aacms per month to maintain a road system that connect all the villages. Caution: A brute force solution that examines every possible set of roads will not finish within the one minute time limit. 
  
 
-**Sample Input**
+##Sample Input
+
 9
+
 A 2 B 12 I 25
+
 B 3 C 10 H 40 I 8
+
 C 2 D 18 G 55
+
 D 1 E 44
+
 E 2 F 60 G 38
+
 F 0
+
 G 1 H 35
+
 H 1 I 35
+
 3
+
 A 2 B 10 C 40
+
 B 1 C 20
+
 0
  
 
-**Sample Output**
+##Sample Output
+
 216
+
 30
