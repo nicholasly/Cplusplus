@@ -1,4 +1,4 @@
-# 还是畅通工程
+## 还是畅通工程
 Time Limit: 4000/2000 MS (Java/Others)    Memory Limit: 65536/32768 K (Java/Others)
 Total Submission(s): 60312    Accepted Submission(s): 27396
 
@@ -19,7 +19,7 @@ Total Submission(s): 60312    Accepted Submission(s): 27396
 对每个测试用例，在1行里输出最小的公路总长度。
  
 
-**Sample Input**
+# Sample Input
 
 3
 1 2 1
@@ -35,7 +35,7 @@ Total Submission(s): 60312    Accepted Submission(s): 27396
 0
  
 
-**Sample Output**
+# Sample Output
 
 3
 5
